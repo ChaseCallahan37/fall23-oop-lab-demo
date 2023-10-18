@@ -7,7 +7,7 @@ int speedInput = int.Parse(Console.ReadLine());
 
 coolCar.GoFast(speedInput);
 
-System.Console.WriteLine("Uh oh... McQueen has a flat, how much should he slow down by?");
+System.Console.WriteLine($"Uh oh... {coolCar.GetName()} has a flat, how much should he slow down by?");
 speedInput = int.Parse(Console.ReadLine());
 coolCar.SlowDown(speedInput);
 
