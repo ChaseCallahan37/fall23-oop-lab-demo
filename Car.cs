@@ -12,13 +12,14 @@ namespace OOP_Lab_Demo{
 			return name;
 		}
 
-		public void GoFast(int speedUp){
+		public void SpeedUp(int speedUp){
 			Console.WriteLine($"{name} is currently going {speed} and is speeding up to {speed + speedUp}!");
 			speed += speedUp;
 		}
 
 		public void SlowDown(int slowDown){
 			Console.WriteLine($"Srhhhhheeeechhhhhh! {name} is currently going {speed} and is slowing down {speed - slowDown}!!! (Get out of the way, he is almost driving as bad as Chase!)");		
+			speed -= slowDown;
 		}
 	}
 }
