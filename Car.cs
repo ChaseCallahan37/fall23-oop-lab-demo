@@ -5,7 +5,7 @@ namespace OOP_Lab_Demo{
 
 		public Car(string name){
 			this.name = name;
-			this.speed = 0;
+			speed = 0;
 		}
 
 		public string GetName(){
