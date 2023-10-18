@@ -1,0 +1,15 @@
+/home/chase/projects/221/lab/lab-7-demo/bin/Debug/net7.0/lab-7-demo
+/home/chase/projects/221/lab/lab-7-demo/bin/Debug/net7.0/lab-7-demo.deps.json
+/home/chase/projects/221/lab/lab-7-demo/bin/Debug/net7.0/lab-7-demo.runtimeconfig.json
+/home/chase/projects/221/lab/lab-7-demo/bin/Debug/net7.0/lab-7-demo.dll
+/home/chase/projects/221/lab/lab-7-demo/bin/Debug/net7.0/lab-7-demo.pdb
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.csproj.AssemblyReference.cache
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.AssemblyInfoInputs.cache
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.AssemblyInfo.cs
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.csproj.CoreCompileInputs.cache
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.dll
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/refint/lab-7-demo.dll
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.pdb
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/lab-7-demo.genruntimeconfig.cache
+/home/chase/projects/221/lab/lab-7-demo/obj/Debug/net7.0/ref/lab-7-demo.dll
